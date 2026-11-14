@@ -1,0 +1,51 @@
+record_id,protein_name,dataset_group,heme_binding_label,esm2_top_reference_id,esm2_top_reference_name,esm2_cosine_similarity
+dnMb02,ProteinMPNN-designed myoglobin dnMb02,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.9601
+dnMb03,ProteinMPNN-designed myoglobin dnMb03,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.9741
+dnMb04,ProteinMPNN-designed myoglobin dnMb04,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.959
+dnMb05,ProteinMPNN-designed myoglobin dnMb05,AI_DESIGNED_POSITIVE,positive,P02236,Soybean leghemoglobin,0.9675
+dnMb06,ProteinMPNN-designed myoglobin dnMb06,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.8466
+dnMb07,ProteinMPNN-designed myoglobin dnMb07,AI_DESIGNED_POSITIVE,positive,Q54AI1,Bacterial HmuO,0.9243
+dnMb08,ProteinMPNN-designed myoglobin dnMb08,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.903
+dnMb09,ProteinMPNN-designed myoglobin dnMb09,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.9346
+dnMb10,ProteinMPNN-designed myoglobin dnMb10,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.9745
+dnMb11,ProteinMPNN-designed myoglobin dnMb11,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.8827
+dnMb12,ProteinMPNN-designed myoglobin dnMb12,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.9166
+dnMb13,ProteinMPNN-designed myoglobin dnMb13,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.9297
+dnMb14,ProteinMPNN-designed myoglobin dnMb14,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.9108
+dnMb15,ProteinMPNN-designed myoglobin dnMb15,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.9506
+dnMb16,ProteinMPNN-designed myoglobin dnMb16,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.9558
+dnMb17,ProteinMPNN-designed myoglobin dnMb17,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.903
+dnMb18,ProteinMPNN-designed myoglobin dnMb18,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.9029
+dnMb19,ProteinMPNN-designed myoglobin dnMb19,AI_DESIGNED_POSITIVE,positive,Q54AI1,Bacterial HmuO,0.9358
+dnMb20,ProteinMPNN-designed myoglobin dnMb20,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.9344
+dnMb21,ProteinMPNN-designed myoglobin dnMb21,AI_DESIGNED_POSITIVE,positive,P02144,Human myoglobin,0.9517
+P9WKH3,MhuD,NATURAL_POSITIVE,positive,Q2FZE2,Staphylococcus IsdG,0.9086
+P23847,DppA,NATURAL_POSITIVE,positive,P92994,Plant CYP73A5,0.7393
+P0ABI8,CyoB,NATURAL_POSITIVE,positive,P00156,Human mitochondrial cytochrome b,0.9509
+Q9KL41,HutZ,NATURAL_POSITIVE,positive,Q8X5N8,E. coli ChuS,0.9847
+Q2FZE9,IsdA,NATURAL_POSITIVE,positive,P0ABE7,E. coli cytochrome b562,0.8419
+Q9I609,NirN,NATURAL_POSITIVE,positive,Q59635,Pseudomonas catalase KatB,0.8855
+I6X8R5,Rv0203,NATURAL_POSITIVE,positive,Q54AI1,Bacterial HmuO,0.9308
+P32339,HMX1,NATURAL_POSITIVE,positive,P00167,Human cytochrome b5,0.9658
+P12946,CtaA,NATURAL_POSITIVE,positive,P00156,Human mitochondrial cytochrome b,0.9618
+P09601,HMOX1,NATURAL_POSITIVE,positive,Q54AI1,Bacterial HmuO,0.9858
+P00698,Hen egg-white lysozyme,NEGATIVE_CONTROL,negative,P05164,Human myeloperoxidase,0.9436
+P63279,SUMO-conjugating enzyme UBC9,NEGATIVE_CONTROL,negative,P04040,Human catalase,0.9736
+P9WMH1,IdeR,NEGATIVE_CONTROL,negative,Q54AI1,Bacterial HmuO,0.9168
+P08246,Neutrophil elastase,NEGATIVE_CONTROL,negative,P05164,Human myeloperoxidase,0.8331
+Q86V81,ALYREF,NEGATIVE_CONTROL,negative,P04040,Human catalase,0.8181
+Q99836,MyD88,NEGATIVE_CONTROL,negative,P29474,Human NOS3,0.9528
+P36873,PP1-gamma,NEGATIVE_CONTROL,negative,Q02153,Human guanylate cyclase beta-1,0.8892
+P25685,DNAJB1,NEGATIVE_CONTROL,negative,P21179,E. coli catalase HPII,0.949
+Q6FHJ7,SFRP4,NEGATIVE_CONTROL,negative,P05164,Human myeloperoxidase,0.9537
+Q02750,MEK1,NEGATIVE_CONTROL,negative,Q02153,Human guanylate cyclase beta-1,0.8548
+P02246,Hemerythrin (Themiste dyscritum),NEGATIVE_CONTROL,negative,Q8X5N8,E. coli ChuS,0.9695
+P72509,C-phycocyanin alpha (Arthrospira),NEGATIVE_CONTROL,negative,Q54AI1,Bacterial HmuO,0.9764
+P00282,Azurin,NEGATIVE_CONTROL,negative,P0ABE7,E. coli cytochrome b562,0.8661
+P61949,Flavodoxin,NEGATIVE_CONTROL,negative,P21179,E. coli catalase HPII,0.9172
+P0ABQ4,Dihydrofolate reductase,NEGATIVE_CONTROL,negative,Q8X5N8,E. coli ChuS,0.9471
+P00918,Carbonic anhydrase II,NEGATIVE_CONTROL,negative,P21179,E. coli catalase HPII,0.9733
+P42212,Green fluorescent protein,NEGATIVE_CONTROL,negative,P04040,Human catalase,0.9707
+P0AA25,Thioredoxin,NEGATIVE_CONTROL,negative,P92994,Plant CYP73A5,0.7542
+P61823,Ribonuclease A,NEGATIVE_CONTROL,negative,P05164,Human myeloperoxidase,0.9369
+P22629,Streptavidin,NEGATIVE_CONTROL,negative,Q54450,Serratia HasA,0.9338

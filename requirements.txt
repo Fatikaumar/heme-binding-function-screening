@@ -1,0 +1,15 @@
+# Python dependencies for the heme-binding screening notebooks and figures.
+# Tested workflows target Google Colab; BLAST+ is installed separately.
+# Install with: pip install -r requirements.txt
+
+numpy>=1.26,<3
+pandas>=2.1,<3
+scikit-learn>=1.4,<2
+matplotlib>=3.8,<4
+requests>=2.31,<3
+torch>=2.4,<3
+transformers>=4.40,<5
+
+# NCBI BLAST+ is not a pip package. In a Debian/Colab environment:
+# sudo apt-get install -y ncbi-blast+
+# Colab provides the notebook runtime and IPython display utilities.

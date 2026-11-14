@@ -1,0 +1,52 @@
+# Python caches and package/build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter and Colab temporary files
+.ipynb_checkpoints/
+
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+*.key
+
+# Model weight files and common experiment caches
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+.cache/
+
+# NCBI BLAST+ generated protein database index files
+*.phr
+*.pin
+*.psq
+*.pog
+*.pot
+*.ptf
+*.pto
+*.pal
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Packaged copies for manual uploading
+*.zip
+
+# IMPORTANT: Do not ignore CSV, FASTA, notebooks, or figures.
+# Those are intentional, version-controlled research artifacts.
